@@ -1,0 +1,78 @@
+
+# Build Folders
+bin/
+obj/
+out/
+
+# User-specific Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Visual Studio 2019
+.vs/
+
+# NCrunch
+.ncrunch*
+*.ncrunchsolution
+*.ncrunchproject
+
+# Windows Image File Cache
+Thumbs.db
+ehthumbs.db
+
+# Folder Configurations
+.idea/
+.vscode/
+
+# Log Files
+*.log
+
+# Environment Variables
+*.env
+
+# Node Modules
+node_modules/
+
+# Backup Files
+*.bak
+
+# Temporary Files
+*.tmp
+*.temp
+*.cache
+*.swp
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage Results
+*.coverage
+*.coveragexml
+
+# Entity Framework
+*.edmx.diagram
+*.edmx.sql
+
+# Generated Code
+Generated_Code/
+
+# Publish Results
+.publish/
+*.publish.xml
+*.pdb
+
+# Others
+ReSharper*/
+_TeamCity*/
+*.pyc
+*.pyo
+*.trace
+*.ide
+.idea/
+!.gitignore
